@@ -21,7 +21,7 @@ Here are some screenshots:
 ![](http://www.thomasjacquin.com/allsky-portal/screenshots/system-info.jpg)
 
 ## Installation
-This project adds a GUI layer to the allsky camera software. The installation script is documented on the main project which you can access here: [**allsky camera installation**](https://github.com/thomasjacquin/allsky)
+This project adds a GUI layer to the allsky camera software. The installation script is documented on the main project which you can access here: [**allsky camera installation**](https://github.com/jeremyamoore/allsky)
 
 After you complete the GUI setup, you'll be able to administer the camera using the web UI by navigating to
 ```sh
